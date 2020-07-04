@@ -1,4 +1,4 @@
-# Cryptology-Program
+# Cryptography program
 
 Simple encryption and decryption program inplemented in Golang.
 
